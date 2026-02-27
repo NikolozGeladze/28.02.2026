@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: #F5F8FF;
+    font-size: 16px;
+}
+
+:root {
+    --main-color: #252432;
+    --button-color: #4E47FF;
+    --primary-color: #8987A1;
+}
